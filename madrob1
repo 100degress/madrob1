@@ -1,9 +1,1 @@
-getgenv().ServerHop = {
-    min = 12,
-    max = 20 --range of players on the server
-}
-getgenv().FlySpeed = 600
-getgenv().Team = "Prisoners"
-getgenv().TimeToLoad = 2
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/42069RATIOXD/mad-city-chapter-1-season-4-autorob/refs/heads/main/autorob"))()
+no money = no script
